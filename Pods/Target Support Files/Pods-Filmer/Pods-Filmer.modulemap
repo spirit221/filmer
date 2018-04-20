@@ -1,0 +1,6 @@
+framework module Pods_Filmer {
+  umbrella header "Pods-Filmer-umbrella.h"
+
+  export *
+  module * { export * }
+}
